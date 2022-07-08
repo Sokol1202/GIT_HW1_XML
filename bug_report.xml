@@ -7,7 +7,7 @@
   <severity>
     <S1>Блокирующий (Blocker)</S1>
     <S2>Критический (Critical)</S2>
-    Значительный (Major)
+    <S3>Значительный (Major)</S3>
     <S4>Незначительный (Minor)</S4>
     <S5>Тривиальный (Trivial)</S5>
   </severity>
